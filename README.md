@@ -1,6 +1,6 @@
 # Moving Things with JavaScript by Acting on Events
 
-## Learning Goals
+## Learning Goals 
 
 - Practice moving elements on the page
 - Demonstrate how to move an element in response to a browser event
